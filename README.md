@@ -28,7 +28,6 @@
 vamsi-KG-dev/vamsi-KG-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ### Skills
 
 - **Programming Languages**:  
@@ -57,5 +56,5 @@ You can click the Preview link to take a look at your changes.
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40&labelWidth=150)
 
 - **Data Visualization**:  
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=40&labelWidth=150)
-
+  ![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=powerbi&logoColor=white&logoWidth=40&labelWidth=150)  
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=40&labelWidth=150)
