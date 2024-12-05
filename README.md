@@ -32,29 +32,29 @@ You can click the Preview link to take a look at your changes.
 ### Skills
 
 - **Programming Languages**:  
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =250x250)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Data Analysis & Libraries**:  
-  ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg =250x250)  
-  ![NumPy](https://upload.wikimedia.org/wikipedia/commons/8/83/NumPy_logo_2020.svg =250x250)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 - **Web Development**:  
-  ![HTML](https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML5_logo_and_wordmark.svg =250x250)  
-  ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg =250x250)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Data Science & Statistics**:  
-  ![Statistics](https://upload.wikimedia.org/wikipedia/commons/a/a6/Statistics_icon.svg =250x250)
+  ![Statistics](https://img.shields.io/badge/Statistics-FFA500?style=for-the-badge)
 
 - **Machine Learning & AI**:  
-  ![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/8/87/AI_icon.svg =250x250)  
-  ![Deep Learning](https://upload.wikimedia.org/wikipedia/commons/7/7c/Deep_Learning_icon.svg =250x250)  
-  ![Neural Networks](https://upload.wikimedia.org/wikipedia/commons/e/e0/Neural_network.svg =250x250)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E2DE2?style=for-the-badge)
+  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6C63FF?style=for-the-badge)
 
 - **Data Preprocessing**:  
-  ![Data Preprocessing](https://upload.wikimedia.org/wikipedia/commons/3/33/Data_Cleaning_Icon.svg =250x250)
+  ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-008080?style=for-the-badge)
 
 - **Databases**:  
-  ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d2/MySQL_logo.png =250x250)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Data Visualization**:  
-  ![Tableau](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tableau_Logo.png =250x250)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
