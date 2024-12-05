@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>
-      <b>Programming Languages & Data Analysis</b><br>
+      <b>Programming Languages & Data Analysis & ML</b><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=50" alt="Python">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=50" alt="Pandas">
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=50" alt="NumPy">
