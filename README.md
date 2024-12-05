@@ -30,27 +30,32 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Skills
 
-- **Programming Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&labelWidth=150)
+#### Programming Languages & Data Analysis
 
-- **Data Analysis & Libraries**:  
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=40&labelWidth=150)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=40&labelWidth=150)
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=50)
+
+- **Data Analysis**:  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=50)  
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=50)
+
+- **Machine Learning & Deep Learning**:  
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googleai&logoColor=white&logoWidth=50)  
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E2DE2?style=for-the-badge&logo=keras&logoColor=white&logoWidth=50)  
+
+#### Web Development & Data Visualization
 
 - **Web Development**:  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40&labelWidth=150)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40&labelWidth=150)
-
-- **Data Science & Statistics**:  
-  ![Statistics](https://img.shields.io/badge/Statistics-FFA500?style=for-the-badge&logoWidth=40&labelWidth=150)
-
-- **Machine Learning & AI**:  
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoWidth=40&labelWidth=150)
-  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E2DE2?style=for-the-badge&logoWidth=40&labelWidth=150)
-  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6C63FF?style=for-the-badge&logoWidth=40&labelWidth=150)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=50)  
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=50)
 
 - **Data Preprocessing**:  
-  ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-008080?style=for-the-badge&logoWidth=40&labelWidth=150)
+  ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-008080?style=for-the-badge&logoWidth=50)
+
+- **Data Visualization**:  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=powerbi&logoColor=white&logoWidth=50)  
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=50)
+
 
 - **Databases**:  
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40&labelWidth=150)
