@@ -15,7 +15,7 @@
 
 - 📫 How to reach me:
   - **Email**: [vamcyadav25@gmail.com]
-  - **LinkedIn**: [https://www.linkedin.com/in/vamsi-krishna-yadav](https://www.linkedin.com/in/vamsi-krishna-gopidesi-82a117270)
+  - **LinkedIn**: [https://www.linkedin.com/in/vamsi-krishna-gopidesi-82a117270](https://www.linkedin.com/in/vamsi-krishna-gopidesi-82a117270)
   - **GitHub**: [github.com/vamsi-KG-dev](https://github.com/vamsi-KG-dev)
 
 - 😄 Pronouns: He/Him
